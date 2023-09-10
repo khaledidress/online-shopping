@@ -19,7 +19,7 @@ import Contact from './components/Contact';
 import Modal from './components/Modal'
 import SignUp from './components/SignUp'
 import RedirectSign from './components/RedirectSignup'
-import productList from './components/ProductList';
+import productList from './components/ProductList'
 
 
 
@@ -48,7 +48,7 @@ function App() {
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
         <Route path="/details" component={Details} />
-        <Route path="/productList" component={ProductList} />
+        <Route path="/productList" component={productList} />
 
         {isAuthenticated ? (
           <Route path="/cart" component={Cart} />
