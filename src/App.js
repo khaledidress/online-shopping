@@ -9,7 +9,6 @@ import { Switch, Route } from 'react-router-dom'
 // * components
 
 import Navbar from './components/Navbar';
-import ProductList from './components/ProductList';
 // import Product from './components/Product';
 import Details from './components/Details';
 import Cart from './components/Cart';
