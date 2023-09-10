@@ -1,4 +1,4 @@
-# ITI Graduation Project August-2021
+# ITI Graduation Project
 
 #Team Members :
 1. khaled ahmed idrees
