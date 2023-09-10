@@ -15,4 +15,5 @@
 
 # To Open This Project:
 1.First download the file.rar
+
 2.Open the terminal and Write this commands (npm start) 
